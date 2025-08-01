@@ -1,3 +1,6 @@
 print("subham")
 print("subham panda")
 print("panda")
+print("subham")
+print("subham panda")
+print("panda")
